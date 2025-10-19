@@ -1,10 +1,10 @@
 {
   "latest_version": "4.0.1",
-  "version_code": 2,
-  "download_url": "https://github.com/20EYL-XT25/检查更新/releases/download/v1.0.1/MyApp-v1.0.1.jar",
-  "release_notes": "## 版本 4.0.1 更新内容\n\n### 新功能\n- 新增自动更新检查功能\n- 添加了手动检查更新选项\n\n### 修复问题\n- 修复了已知的性能问题\n- 优化了内存使用\n\n### 注意事项\n- 建议所有用户更新到此版本",
+  "version_code": 401,
+  "download_url": "https://github.com/20EYL-XT25/-/releases/download/v4.0.1/UpdateChecker-v4.0.1.exe",
+  "release_notes": "## 版本 4.0.1 更新内容\n\n### 新功能\n- 新增自动更新检查\n- 添加系统托盘支持\n- 优化用户界面\n\n### 修复问题\n- 修复了网络请求超时问题\n- 改进了更新下载稳定性",
   "force_update": false,
-  "min_required_version": "4.0.1",
+  "min_required_version": "1.0.0",
   "publish_date": "2025-10-29",
-  "file_size": 5242880
+  "file_size": 2097152
 }
